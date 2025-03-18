@@ -1,0 +1,144 @@
+ID,MNAME,CNTYNAME,MCRNUM,MLOCADDR,MLOCCITY,CNTRL,OBLEV,FCOUNTY,LAT,LONG
+6730001,Rolling Hills Hospital,"Pontotoc, OK",374016,1000 Rolling Hills Lane,Ada,33,0,40123,34.7846,-96.6274
+6730005,Southwestern Regional Medical Center,"Tulsa, OK",370190,10109 East 79th Street,Tulsa,33,0,40143,36.0515,-95.8633
+6730009,J. D. McCarty Center for Children With Developmental Disabilities,"Cleveland, OK",373300,2002 East Robinson,Norman,12,0,40027,35.232,-97.4074
+6730010,Mercy Hospital Ada,"Pontotoc, OK",370020,430 North Monte Vista,Ada,21,1,40123,34.7782,-96.6333
+6730012,Curahealth Hospital Oklahoma City,"Oklahoma, OK",372004,1407 North Robinson Avenue,Oklahoma City,33,0,40109,35.4828,-97.5165
+6730013,Post Acute Medical Specialty Hospital of Tulsa,"Tulsa, OK",372018,3219 South 79th East Avenue,Tulsa,33,0,40143,36.1147,-95.8905
+6730014,Northwest Surgical Hospital,"Oklahoma, OK",370192,9204 North May Avenue,Oklahoma City,33,0,40109,35.5641,-97.5666
+6730015,Chickasaw Nation Medical Center,"Pontotoc, OK",370180,1921 Stonecipher Boulevard,Ada,47,1,40123,34.7311,-96.6456
+6730017,Carl Albert Community Mental Health Center,"Pittsburg, OK",374006,1101 East Monroe Avenue,McAlester,12,0,40121,34.9346,-95.7518
+6730019,Select Specialty Hospital-Tulsa Midtown,"Tulsa, OK",372007,"1125 South Trenton Avenue, 3rd Floor",Tulsa,33,0,40143,36.1473,-95.9698
+6730020,Jackson County Memorial Hospital,"Jackson, OK",370022,1200 East Pecan Street,Altus,16,1,40065,34.637,-99.3171
+6730024,OU Medical Center,"Oklahoma, OK",370093,1200 Everett Drive,Oklahoma City,23,3,40109,35.4811,-97.4963
+6730029,Hillcrest Hospital - South,"Tulsa, OK",370202,8801 South 101st East Avenue,Tulsa,33,2,40143,36.0355,-95.8637
+6730030,Share Medical Center,"Woods, OK",371341,800 Share Drive,Alva,16,0,40151,36.7874,-98.671
+6730031,Inspire Specialty Hospital,"Oklahoma, OK",372012,8210 National Avenue,Midwest City,33,0,40109,35.4663,-97.3869
+6730035,Lakeside Women's Hospital,"Oklahoma, OK",370199,11200 North Portland Avenue,Oklahoma City,33,2,40109,35.584,-97.5837
+6730037,Community Hospital,"Oklahoma, OK",370203,3100 SW 89th Street,Oklahoma City,33,0,40109,35.3762,-97.5705
+6730038,INTEGRIS Canadian Valley Hospital,"Canadian, OK",370211,1201 Health Center Parkway,Yukon,23,1,40017,35.485,-97.7634
+6730040,Physicians' Hospital in Anadarko,"Caddo, OK",371314,1002 Central Boulevard East,Anadarko,32,0,40015,35.071,-98.2277
+6730043,Pushmataha Hospital,"Pushmataha, OK",370083,510 East Main Street,Antlers,12,0,40127,34.2314,-95.6148
+6730044,Jim Taliaferro Community Mental Health,"Comanche, OK",374008,602 SW 38th Street,Lawton,12,0,40031,34.6026,-98.4397
+6730046,Oklahoma Spine Hospital,"Oklahoma, OK",370206,14101 Parkway Commons Drive,Oklahoma City,33,0,40109,35.6145,-97.5834
+6730048,Select Specialty Hospital-Oklahoma City,"Oklahoma, OK",372009,3524 NW 56th Street,Oklahoma City,33,0,40109,35.5277,-97.5806
+6730050,Tulsa Spine and Specialty Hospital,"Tulsa, OK",370216,6901 South Olympia Avenue,Tulsa,32,0,40143,36.064,-96.0036
+6730051,SSM Health St. Anthony Hospital - Shawnee,"Pottawatomie, OK",370149,1102 West MacArthur Street,Shawnee,23,3,40125,35.3629,-96.9375
+6730053,Oklahoma Center for Orthopedic and Multi-Specialty Surgery,"Oklahoma, OK",370212,"8100 South Walker, Suite C",Oklahoma City,32,0,40109,35.3855,-97.5195
+6730054,Oklahoma Heart Hospital,"Oklahoma, OK",370215,4050 West Memorial Road,Oklahoma City,33,0,40109,35.6078,-97.5971
+6730055,Mercy Hospital Ardmore,"Carter, OK",370047,1011 14th Avenue NW,Ardmore,21,2,40019,34.1891,-97.141
+6730057,Oklahoma Surgical Hospital,"Tulsa, OK",370210,"2408 East 81st Street, Suite 300",Tulsa,32,0,40143,36.0432,-95.9536
+6730058,Surgical Hospital of Oklahoma,"Oklahoma, OK",370201,100 SE 59th Street,Oklahoma City,32,0,40109,35.4057,-97.5095
+6730061,Drumright Regional Hospital,"Creek, OK",371331,610 West Bypass,Drumright,33,0,40037,35.9903,-96.6077
+6730062,Cornerstone Hospital of Oklahoma-Shawnee,"Pottawatomie, OK",372019,"1900 Gordon Cooper Drive, 2nd Floor",Shawnee,33,0,40125,35.2988,-96.9259
+6730065,Atoka County Medical Center,"Atoka, OK",371300,1590 West Liberty Road,Atoka,16,0,40005,34.394,-96.1511
+6730066,McBride Orthopedic Hospital,"Oklahoma, OK",370222,9600 Broadway Extension,Oklahoma City,33,0,40109,35.5683,-97.5108
+6730067,OneCore Health,"Oklahoma, OK",370220,"1044 SW 44th Street, Suite 350",Oklahoma City,33,0,40109,35.4204,-97.5342
+6730069,St. John Owasso,"Tulsa, OK",370227,12451 East 100th Street North,Owasso,21,1,40143,36.2991,-95.8355
+6730071,Cedar Ridge Hospital,"Oklahoma, OK",374023,6501 NE 50th Street,Oklahoma City,33,0,40109,35.5226,-97.4132
+6730072,Bailey Medical Center,"Tulsa, OK",370228,10502 North 110th East Avenue,Owasso,33,1,40143,36.3121,-95.8507
+6730073,Summit Medical Center,"Oklahoma, OK",370225,1800 S Renaissance Boulevard,Edmond,32,0,40109,35.635,-97.4996
+6730074,Norman Regional Health System,"Cleveland, OK",370008,901 North Porter Avenue,Norman,16,3,40027,35.2592,-97.4895
+6730075,Ascension St. John Jane Phillips,"Washington, OK",370018,3500 East Frank Phillips Boulevard,Bartlesville,21,2,40147,36.7507,-95.9339
+6730078,Cornerstone Hospital of Oklahoma-Muskogee,"Muskogee, OK",372022,351 South 40th Street,Muskogee,33,0,40101,35.7523,-95.4118
+6730079,INTEGRIS Health Edmond,"Oklahoma, OK",370236,4801 Integris Parkway,Edmond,23,2,40109,35.6443,-97.4189
+6730090,Beaver County Memorial Hospital,"Beaver, OK",371322,212 East Eighth Street,Beaver,16,0,40007,36.8107,-100.517
+6730100,Blackwell Regional Hospital,"Kay, OK",370030,710 South 13th Street,Blackwell,16,0,40071,36.7979,-97.3
+6730102,Cimarron Memorial Hospital,"Cimarron, OK",371307,100 South Ellis Street,Boise City,13,0,40025,36.7287,-102.518
+6730104,Bristow Medical Center,"Creek, OK",370041,"700 West 7th Avenue, Suite 6",Bristow,33,0,40037,35.8338,-96.4016
+6730106,Saint Francis Hospital South,"Tulsa, OK",370218,10501 East 91st Street,Tulsa,23,1,40143,36.0332,-95.858
+6730109,Harper County Community Hospital,"Harper, OK",371324,Highway 64 North,Buffalo,13,0,40059,36.8441,-99.6292
+6730110,Carnegie Tri-County Municipal Hospital,"Caddo, OK",371334,102 North Broadway,Carnegie,23,0,40015,35.1092,-98.6048
+6730123,Roger Mills Memorial Hospital,"Roger Mills, OK",371303,501 South L.L. Males,Cheyenne,16,0,40129,35.608,-99.672
+6730155,Grady Memorial Hospital,"Grady, OK",370054,2220 West Iowa Avenue,Chickasha,16,1,40051,35.0492,-97.9613
+6730170,Hillcrest Hospital Claremore,"Rogers, OK",370039,1202 North Muskogee Place,Claremore,33,1,40131,36.3226,-95.6045
+6730180,Claremore Indian Hospital,"Rogers, OK",370173,101 South Moore Avenue,Claremore,47,0,40131,36.3165,-95.6293
+6730187,Cleveland Area Hospital,"Pawnee, OK",371320,1401 West Pawnee Street,Cleveland,16,0,40117,36.3091,-96.482
+6730200,AllianceHealth Clinton,"Custer, OK",370029,100 North 30th Street,Clinton,32,0,40039,35.5145,-98.9965
+6730203,Oklahoma Heart Hospital South Campus,"Oklahoma, OK",370234,5200 East I-240 Service Road,Oklahoma City,33,0,40109,35.3897,-97.4268
+6730220,Coal County General Hospital,"Coal, OK",371319,6 North Covington Street,Coalgate,16,0,40029,34.5388,-96.2244
+6730230,Cordell Memorial Hospital,"Washita, OK",371325,1220 North Glenn English Street,Cordell,16,0,40149,35.303,-98.9883
+6730235,Duncan Regional Hospital,"Stephens, OK",370023,1407 North Whisenant Drive,Duncan,23,0,40137,34.5205,-97.9763
+6730240,Hillcrest Hospital Cushing,"Payne, OK",370099,1027 East Cherry Street,Cushing,33,0,40119,35.9787,-96.7578
+6730270,AllianceHealth Durant,"Bryan, OK",370014,1800 University Boulevard,Durant,33,1,40013,34.0072,-96.3943
+6730278,The Children's Center Rehabilitation Hospital,"Oklahoma, OK",373302,6800 NW 39th Expressway,Bethany,23,0,40109,35.5104,-97.6334
+6730279,St. John Broken Arrow,"Tulsa, OK",370235,1000 West Boise Circle,Broken Arrow,21,0,40143,36.078,-95.8007
+6730310,Great Plains Regional Medical Center,"Beckham, OK",370019,1801 West Third Street,Elk City,23,1,40009,35.4117,-99.4255
+6730360,Integris Bass Baptist Health Center,"Garfield, OK",370016,600 South Monroe Street,Enid,23,2,40047,36.3903,-97.8876
+6730380,St. Mary's Regional Medical Center,"Garfield, OK",370026,305 South Fifth Street,Enid,33,2,40047,36.3939,-97.8709
+6730390,Fairfax Community Hospital,"Osage, OK",371318,40 Hospital Road,Fairfax,33,0,40113,36.5632,-96.7053
+6730400,Fairview Regional Medical Center,"Major, OK",371329,523 East State Road,Fairview,16,0,40093,36.276,-98.4747
+6730420,Northwest Center for Behavioral Health,"Woodward, OK",374001,"193461 East County Road, #304",Fort Supply,12,0,40153,36.5765,-99.5723
+6730446,INTEGRIS Grove Hospital,"Delaware, OK",370113,1001 East 18th Street,Grove,23,2,40041,36.5814,-94.7587
+6730450,Memorial Hospital of Texas County,"Texas, OK",371340,520 Medical Drive,Guymon,13,0,40139,36.6908,-101.476
+6730460,Mercy Rehabilitation Hospital Oklahoma City,"Oklahoma, OK",373033,5401 West Memorial Rd,Oklahoma City,32,0,40109,35.6108,-97.615
+6730471,Mercy Hospital Logan County,"Logan, OK",371317,200 South Academy Road,Guthrie,21,0,40083,35.8765,-97.4605
+6730479,Mercy Hospital Healdton,"Carter, OK",371310,3462 Hospital Road,Healdton,21,0,40019,34.2229,-97.4916
+6730485,Hillcrest Hospital Henryetta,"Okmulgee, OK",370183,2401 West Main Street,Henryetta,33,0,40111,35.4385,-96.0157
+6730493,St. John Rehabilitation Hospital,"Tulsa, OK",373034,1200 West Albany Drive,Broken Arrow,33,0,40143,36.1356,-95.9656
+6730494,OKC-AMG Specialty Hospital,"Oklahoma, OK",372005,"4300 West Memorial Road, 2nd Floor",Oklahoma City,33,0,40109,35.6068,-97.5995
+6730505,Holdenville General Hospital,"Hughes, OK",371321,100 McDougal Drive,Holdenville,14,0,40063,35.0891,-96.3789
+6730515,Harmon Memorial Hospital,"Harmon, OK",371338,400 East Chestnut Street,Hollis,16,0,40057,34.6923,-99.9144
+6730525,Choctaw Memorial Hospital,"Choctaw, OK",370100,1405 East Kirk Street,Hugo,16,0,40023,34.0123,-95.4965
+6730530,McCurtain Memorial Hospital,"McCurtain, OK",371342,1301 Lincoln Road,Idabel,23,1,40089,33.8809,-94.8127
+6730545,Mercy Hospital Kingfisher,"Kingfisher, OK",371313,1000 Hospital Cirle,Kingfisher,21,0,40073,35.8103,-97.9432
+6730555,Comanche County Memorial Hospital,"Comanche, OK",370056,3401 West Gore Boulevard,Lawton,16,2,40031,34.6089,-98.4367
+6730560,Lawton Indian Hospital,"Comanche, OK",370170,1515 Lawrie Tatum Road,Lawton,47,0,40031,34.6276,-98.3842
+6730570,Southwestern Medical Center,"Comanche, OK",370097,5602 SW Lee Boulevard,Lawton,33,2,40031,34.5939,-98.4614
+6730574,Lindsay Municipal Hospital,"Garvin, OK",370214,Highway 19 West,Lindsay,14,0,40049,34.8368,-97.6025
+6730577,AllianceHealth Madill,"Marshall, OK",371326,901 South Fifth Avenue,Madill,33,0,40095,34.0808,-96.7778
+6730580,Mangum Regional Medical Center,"Greer, OK",371330,One Wickersham Drive,Mangum,14,0,40055,34.8918,-99.5013
+6730585,Mercy Health Love County,"Love, OK",371306,300 Wanda Street,Marietta,21,0,40085,33.943,-97.1308
+6730590,McAlester Regional Health Center,"Pittsburg, OK",370034,One East Clark Bass Boulevard,McAlester,14,1,40121,34.9358,-95.7498
+6730625,Willow Crest Hospital,"Ottawa, OK",374017,130 'A' Street SW,Miami,33,0,40115,36.8727,-94.879
+6730630,INTEGRIS Miami Hospital,"Ottawa, OK",370004,200 Second Avenue SW,Miami,23,2,40115,36.8727,-94.8805
+6730640,Saint Francis Hospital Muskogee,"Muskogee, OK",370025,300 Rockefeller Drive,Muskogee,21,2,40101,35.7544,-95.4068
+6730680,Griffin Memorial Hospital,"Cleveland, OK",374000,900 East Main Street,Norman,12,0,40027,35.2288,-97.4262
+6730705,Jane Phillips Nowata Health Center,"Nowata, OK",371305,237 South Locust Street,Nowata,21,0,40105,36.6965,-95.6301
+6730710,Okeene Municipal Hospital,"Blaine, OK",371327,207 East 'F' Street,Okeene,16,0,40011,36.1175,-98.3188
+6730725,Creek Nation Community Hospital,"Okfuskee, OK",371333,1800 East Coplin Street,Okemah,23,0,40107,35.434,-96.3182
+6730728,INTEGRIS Baptist Medical Center,"Oklahoma, OK",370028,3300 NW Expressway,Oklahoma City,23,2,40109,35.5291,-97.5762
+6730797,AllianceHealth Midwest,"Oklahoma, OK",370094,2825 Parklawn Drive,Midwest City,33,0,40109,35.4671,-97.3939
+6730800,Mercy Hospital Oklahoma City,"Oklahoma, OK",370013,4300 West Memorial Road,Oklahoma City,21,2,40109,35.6068,-97.5995
+6730810,Valir Rehabilitation Hospital,"Oklahoma, OK",373025,700 NW Seventh Street,Oklahoma City,33,0,40109,35.4749,-97.5249
+6730830,SSM Health St. Anthony Hospital - Oklahoma City,"Oklahoma, OK",370037,1000 North Lee Street,Oklahoma City,21,2,40109,35.4779,-97.5235
+6730834,INTEGRIS Southwest Medical Center,"Oklahoma, OK",370106,4401 South Western,Oklahoma City,23,1,40109,35.4227,-97.5302
+6730893,Muscogee Creek Nation Medical Center,"Okmulgee, OK",370057,1401 Morris Drive,Okmulgee,23,0,40111,35.6104,-95.9533
+6730930,Pawhuska Hospital,"Osage, OK",371309,1101 East 15th Street,Pawhuska,14,0,40113,36.6728,-96.3254
+6730947,Stillwater Medical Perry,"Noble, OK",370139,501 North 14th Street,Perry,16,0,40103,36.2885,-97.2996
+6730960,AllianceHealth Ponca City,"Kay, OK",370006,1900 North 14th Street,Ponca City,33,1,40071,36.7247,-97.0684
+6730962,Eastern Oklahoma Medical Center,"Le Flore, OK",371337,105 Wall Street,Poteau,13,1,40079,35.0436,-94.6124
+6730965,Prague Community Hospital,"Lincoln, OK",371301,1322 Klabzuba Avenue,Prague,23,0,40081,35.4904,-96.6844
+6730975,Hillcrest Hospital Pryor,"Mayes, OK",370015,111 North Bailey Street,Pryor,33,0,40097,36.3084,-95.3044
+6730980,Purcell Municipal Hospital,"McClain, OK",370158,1500 North Green Avenue,Purcell,14,0,40087,35.0289,-97.3646
+6730990,St. John Sapulpa,"Creek, OK",371312,1004 East Bryan Avenue,Sapulpa,21,0,40037,35.9931,-96.101
+6731000,Memorial Hospital of Stilwell,"Adair, OK",370178,1401 West Locust,Stilwell,33,0,40001,35.8085,-94.6384
+6731010,AllianceHealth Seminole,"Seminole, OK",370229,2401 Wrangler Boulevard,Seminole,32,0,40133,35.2463,-96.6986
+6731030,Newman Memorial Hospital,"Ellis, OK",371336,905 South Main Street,Shattuck,14,0,40045,36.2684,-99.8815
+6731065,Haskell County Community Hospital,"Haskell, OK",371335,401 Northwest 'H' Street,Stigler,33,0,40061,35.2613,-95.1289
+6731080,Stillwater Medical Center,"Payne, OK",370049,1323 West Sixth Avenue,Stillwater,16,3,40119,36.1151,-97.0749
+6731089,Arbuckle Memorial Hospital,"Murray, OK",371328,2011 West Broadway Street,Sulphur,13,0,40099,34.5052,-96.9961
+6731095,Seiling Regional Medical Center,"Dewey, OK",371332,Highway 60 NE,Seiling,14,0,40043,36.1481,-98.9246
+6731120,Northeastern Health System,"Cherokee, OK",370089,1400 East Downing Street,Tahlequah,14,1,40021,35.9138,-94.9501
+6731130,Cherokee Nation W.W. Hastings Indian Hospital,"Cherokee, OK",370171,100 South Bliss Avenue,Tahlequah,44,0,40021,35.9118,-94.9504
+6731150,Choctaw Nation Health Care Center,"Le Flore, OK",370172,One Choctaw Way,Talihina,47,1,40079,34.7555,-95.0837
+6731160,Mercy Hospital Tishomingo,"Johnston, OK",371304,1000 South Byrd Street,Tishomingo,21,0,40069,34.2242,-96.6759
+6731180,Hillcrest Medical Center,"Tulsa, OK",370001,1120 South Utica Avenue,Tulsa,33,3,40143,36.1471,-95.9681
+6731215,Saint Francis Hospital,"Tulsa, OK",370091,6161 South Yale Avenue,Tulsa,23,3,40143,36.0727,-95.9199
+6731220,St. John Medical Center,"Tulsa, OK",370114,1923 South Utica Avenue,Tulsa,21,1,40143,36.1336,-95.9656
+6731235,Parkside Psychiatric Hospital and Clinic,"Tulsa, OK",374021,1619 East 13th Street,Tulsa,23,0,40143,36.1456,-95.9689
+6731238,Saint Francis Hospital Vinita,"Craig, OK",370237,735 North Foreman Street,Vinita,23,0,40035,36.6532,-95.1559
+6731240,Oklahoma Forensic Center,"Craig, OK",0,24800 South 4420 Road,Vinita,12,0,40035,36.6593,-95.1244
+6731245,Brookhaven Hospital,"Tulsa, OK",374012,201 South Garnett Road,Tulsa,33,0,40143,36.1582,-95.8494
+6731255,Wagoner Community Hospital,"Wagoner, OK",370166,1200 West Cherokee Street,Wagoner,16,0,40145,35.9611,-95.3926
+6731260,Mercy Hospital Watonga,"Blaine, OK",371302,500 North Clarence Nash Boulevard,Watonga,21,0,40011,35.8494,-98.4186
+6731265,Laureate Psychiatric Clinic and Hospital,"Tulsa, OK",374020,6655 South Yale Avenue,Tulsa,23,0,40143,36.0663,-95.9172
+6731275,Jefferson County Hospital,"Jefferson, OK",371311,Highway 70 and 81,Waurika,23,0,40067,34.1584,-97.982
+6731283,Weatherford Regional Hospital,"Custer, OK",371323,3701 East Main Street,Weatherford,16,1,40039,35.5393,-98.6622
+6731290,AllianceHealth Woodward,"Woodward, OK",370002,900 17th Street,Woodward,33,0,40153,36.4378,-99.4
+6739105,Northeastern Health System Sequoyah,"Sequoyah, OK",370112,213 East Redwood Street,Sallisaw,15,0,40135,35.4635,-94.7858
+6739125,Oklahoma State University Medical Center,"Tulsa, OK",370078,744 West Ninth Street,Tulsa,14,0,40143,36.1466,-96
+6739137,Oakwood Springs,"Oklahoma, OK",374025,13101 Memorial Springs Court,Oklahoma City,33,0,40109,35.6023,-97.5278
+6739138,Muscogee Creek Nation Physical Rehabilitation Center,"Okmulgee, OK",372023,1401 Morris Drive,Okmulgee,23,0,40111,35.6104,-95.9533
+6739139,PAM Rehabilitation Hospital of Tulsa,"Tulsa, OK",373035,10020 East 91st Street,Tulsa,33,0,40143,36.0307,-95.865
+6739140,Integris Community Hospital at Council Crossing,"Oklahoma, OK",0,9417 North Council Road,Oklahoma City,32,0,40109,35.5653,-97.6568
